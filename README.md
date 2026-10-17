@@ -1,7 +1,7 @@
 <p align="center"><img src="assets/capsule-header.png" alt="Capsule — Rebuntu spatial desktop engine" width="100%"></p>
 
 
-**Your workspace, beyond windows.** Deterministic spatial, temporal and reactive desktop infrastructure for Rebuntu. This project is independent of Gordon.
+<p align="center"><strong><em>Your workspace, beyond windows.</em></strong></p>
 
 ## Current scope
 
